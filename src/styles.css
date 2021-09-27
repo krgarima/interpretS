@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  margin: 3.8rem;
+  padding: 1rem 3rem;
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+  padding-top: 1rem;
+  color: rgb(10, 37, 37);
+}
